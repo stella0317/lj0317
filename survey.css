@@ -1,0 +1,96 @@
+body{background: url(https://pic2.zhimg.com/80/v2-82fe8ba0ec87d0942b75d25303c507db_r.jpg)no-repeat;
+background-size: 100%100%;}
+form {
+    width : 600px;
+    color: hotpink;
+    font-size: large;
+}
+
+h1 {
+    background-color : rgb(192, 230, 255);
+    border-radius : 10px;
+    box-shadow : 3px 3px 3px rgb(28, 128, 185);
+    width : 100%;
+    height : 65px;
+    padding : 5px;
+    text-align : center;
+    color : rgba(250, 159, 215, 0.966);
+    box-sizing : border-box;
+    
+}
+
+article > p {
+    background-color: honeydew;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(15, 13, 1);
+}
+article > p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+
+article{
+    
+    color:orangered;
+}
+
+input[type=button], input[type=reset] {
+
+    background-color : skyblue;
+    border-radius : 10px;
+    width : 49%;
+    height : 50px;
+    color : white;
+    font-weight : bold;
+    font-size : 16pt;
+    border: beige;
+    box-shadow : 3px 3px 3px gray;
+    box-align: center;
+}
+
+
+
+
+
+
+.box1, select {
+    
+    width : 90%;
+    height : 60px;
+    padding : 20px;
+    margin : 20px;
+    box-sizing: border-box;
+    font-size : 30px;
+}
+.box1>button{
+    color: rgb(229, 238, 172);
+    background-color: rgb(133, 202, 227);
+    font-weight : bold;
+    
+    width : 20%;
+    height : 50px;
+    border: beige;
+
+}
+
+
+textarea {
+    width : 90%;
+    height : 100px;
+    padding : 10px;
+    margin : 10px;
+    font-size : 13pt;
+    font-family : "맑은 고딕";
+    box-sizing: border-box;
+}
+
+
+section{
+    color: orangered;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+}
